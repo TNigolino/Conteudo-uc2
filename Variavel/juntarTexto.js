@@ -41,3 +41,26 @@ let feliz = true
 let frase3 = `Ola, me chamo ${nome} e ja enfrentei e derrotei ${monstros} monstros, alem disso ja mandei ${waffles} waffles pra dentro da minha barriga, se é verdade que estou feliz comigo mesma essa informacao é ${feliz}`
 
 console.log(frase3)
+
+//--------------------------
+
+const gato = "Richard"
+let brinquedos = 42
+let invento = 67
+let orgulhoso = true
+
+let frase4 = `O gatinho ${gato} conseguiu a proeza de quebrar ${brinquedos} brinquedos, mas tirando isso ele criou ${invento} inventos novos para destruir de novo.Esse e o ciclo do gato ${gato}`
+
+console.log(frase4)
+
+//--------------------------
+
+const  pizza = "Peperroni"
+let valor = 55
+let pizzaVoa = true
+
+let frase5 = `Pizza de ${pizza}, valor ${valor}R$, mas o interresante e que ela voa? ${pizzaVoa}.`
+
+console.log(frase5)
+
+//-------------------------

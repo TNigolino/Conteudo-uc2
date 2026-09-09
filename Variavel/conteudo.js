@@ -75,3 +75,27 @@ let usuarioLogado = true
 console.log(estaChovendo)
 console.log(estaSol)
 console.log(usuarioLogado)
+
+// Tipos de Variaveis
+// typeof e um comendo para ver o tipo de variavel
+
+const got = "Game of Thrones"
+const temporadasGot = 8
+
+const tipoNumeroTemporadas = typeof temporadasGot
+
+const tipoGot = typeof got
+
+console.log(tipoGot)
+
+console.log(tipoNumeroTemporadas)
+
+//Undefined: tipo que representa a falta de um valor de uma variavel
+
+let novaVariavel
+
+const tipoNovaVariavel = typeof novaVariavel
+
+console.log(tipoNovaVariavel)
+
+// NaN -> Not a Number
