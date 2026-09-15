@@ -1,0 +1,12 @@
+const prompt = require('prompt-sync')()
+const name = prompt("What's your name? ")
+const weapon = prompt("What weapon you want? ")
+const person = prompt("Who person you want to go with you? ")
+const veichle = prompt("What's your veichle? ")
+const food = prompt("What food you will get? ")
+
+console.log(`Your name is ${name}.`)
+console.log(`Your weapon is ${weapon}.`)
+console.log(`Your friend is ${person}.`)
+console.log(`Your veichle is ${veichle}.`)
+console.log(`Your food is ${food}.`)
