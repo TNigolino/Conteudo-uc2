@@ -1,4 +1,4 @@
-//OPERADORES ARITMETICOS
+// OPERADORES ARITMETICOS
 
 /*
 *Os operadores aritmeticos servem para fazer contas: Sao eles
