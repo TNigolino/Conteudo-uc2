@@ -19,3 +19,5 @@ switch(comando){
     default:
         console.log("\nComando Inválido.")
 }
+
+//Gosto de if/else
