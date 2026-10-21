@@ -36,3 +36,5 @@ switch(sinal){
     default:
         console.log("Sinal esta estragado.")
 }
+
+// ----------------------------------------

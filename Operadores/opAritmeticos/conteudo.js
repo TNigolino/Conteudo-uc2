@@ -28,3 +28,5 @@ console.log( " A subtracao e: "  + subtracao)
 console.log( "A multiplicacao e: " + multiplicacao)
 console.log( "A divisao e: " + divisao)
 console.log( "O resto da divisao e: " + resto)
+
+// ---------------------------

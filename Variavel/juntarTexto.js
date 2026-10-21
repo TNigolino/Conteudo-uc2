@@ -72,6 +72,4 @@ let frase6 = `O ${robo} ja aprendeu ${danca} passos!,Ele esta dancando agora? ${
 
 console.log(frase6)
 
-//-------------------------
-
-  
+//-----------------------------

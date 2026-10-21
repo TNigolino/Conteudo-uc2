@@ -15,3 +15,5 @@ let idadePrompt = Number(prompt("Qual a idade do entrevistado?: "));
 let resultadoPrompt = idadePrompt >= 18 ? "Maior de idade" : "Menor de idade"
 
 console.log(resultadoPrompt)
+
+// ------------------------------

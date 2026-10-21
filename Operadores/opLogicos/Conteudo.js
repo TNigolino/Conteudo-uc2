@@ -55,3 +55,5 @@ console.log(!portaTrancada)
 
 console.log("\n Pode entrar? ")
 console.log(podeEntrar)
+
+// ---------------------------------

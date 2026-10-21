@@ -9,3 +9,5 @@ const age = prompt('How old are you?')
 
 // Exibe a resposta
 console.log(`Hello, ${name}! You are ${age} years old.`)
+
+// ----------------------------

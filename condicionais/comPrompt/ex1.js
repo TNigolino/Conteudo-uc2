@@ -7,3 +7,5 @@ if(age >= 18){
 } else {
     console.log("\nAi nao meu Jovem gafanhoto querendo ir para festas sem ter 18 ainda, volte quando for responsavel.")
 }
+
+// -----------------------------------
