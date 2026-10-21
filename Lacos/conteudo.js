@@ -76,11 +76,24 @@ console.log(contador)
 
   EXEMPLO 1 - CONTANDO DE 1 ATE 5
 */
-  let numero = 1
+let numero = 1
   // Enquanto numero for menor ou igual a 5...
-  while(numero <= 5){
-    // Mostra o numero atual
-    console.log("Numero", numero)
-    // Aumenta o numero em uma unidade
-    numero++
-  }
+while(numero <= 5){
+   // Mostra o numero atual
+  console.log("Numero", numero)
+  // Aumenta o numero em uma unidade
+  numero++
+}
+
+/*
+
+EXEMPLO 2 - COMER MAIS COXINHAS
+
+*/
+
+let estomago = 0;
+
+while(estomago > 100){
+  console.log("\nQuero comer mais coxinhas")
+  estomago = estomago + 10;
+}
