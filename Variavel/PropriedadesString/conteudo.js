@@ -147,4 +147,4 @@ console.log(nomeCurso.includes("desenvolvimento"))
 let comunicado = "Aula de AlgoritmosNormais será em 2045."
 // Substitui todas as ocorrencias
 console.log("Frase Antes: ", comunicado)
-console.log("Frase Depois: ", comunicado.replaceAll("AlgoritmosNormais", "AlgoritmosMuchoLocos"))
+console.log("Frase Depois: ", comunicado.replaceAll("AlgoritmosNormais", "AlgoritmosMuchoLocos"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
