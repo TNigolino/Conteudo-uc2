@@ -73,3 +73,17 @@ console.log(nomes)
 let pokemon = ["Pikachu", "Eevee", "Snorlax",];
 console.log(pokemon.length)
 
+// ===============================
+// 6. PROPRIEDADE INCLUDES()
+// ===============================
+
+
+
+// Retorna
+// true = encontrado
+// false = não encontrada
+
+// Exemplo
+let equipeAsh = ["Pikachu", "Charizard", "Squirtle"]
+
+console.log(equipeAsh.includes("Pikachu"))
