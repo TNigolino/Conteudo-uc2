@@ -1,4 +1,4 @@
-let listaIngredientes = ["Chocolate", "Ovo", "Farinha", "Fermento", "Açúcar", "Sal", "Leite"];
+let listaIngredientes = ["Achocolatado", "Ovo", "Farinha", "Fermento", "Açúcar", "Sal", "Leite", "Manteigo"];
 let baseDoBolo = ["Farinha", "Manteiga", "Açúcar", "Leite", "Fermento", "Ovo"];
 
 let recheio1 = ["Chocolate", "Brigadeiro"]

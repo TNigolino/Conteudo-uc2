@@ -87,3 +87,35 @@ console.log(pokemon.length)
 let equipeAsh = ["Pikachu", "Charizard", "Squirtle"]
 
 console.log(equipeAsh.includes("Pikachu"))
+
+// ====================================
+// 7. PUSH
+// ====================================
+
+// É uma ação que podemos executar sobre um array. O push adiciona um novo elemento ao FINAL
+
+
+let equipe = ["Charmander", "Pikachu"];
+
+equipe.push("Bulbasaur")
+console.log(equipe)
+
+// ====================================
+// 8. MÉTODO UNSHIFT()
+// ====================================
+
+// Unchisft() adicionar um elemento na primeira posição.
+
+let mochila = ["Pikachu", "Eevee"]
+mochila.unshift("Mew")
+console.log(mochila)
+
+// ===================================
+// 9. MÉTODO SHIFT()
+// ===================================
+
+// shift() remove o primeiro elemento
+
+let mochila2 = ["Mew", "Pikachu", "Eevee"]
+mochila2.shift()
+console.log(mochila2)
