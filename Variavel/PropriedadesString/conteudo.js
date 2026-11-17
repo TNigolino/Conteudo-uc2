@@ -147,4 +147,32 @@ console.log(nomeCurso.includes("desenvolvimento"))
 let comunicado = "Aula de AlgoritmosNormais será em 2045."
 // Substitui todas as ocorrencias
 console.log("Frase Antes: ", comunicado)
-console.log("Frase Depois: ", comunicado.replaceAll("AlgoritmosNormais", "AlgoritmosMuchoLocos"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+console.log("Frase Depois: ", comunicado.replaceAll("AlgoritmosNormais", "AlgoritmosMuchoLocos"))
+
+// ===============================
+// 7. Método pop()
+// ===============================
+
+// O método pop() remove o último elemento de um array
+
+const meusPeixes = ["Palhaço", "Mandarim", "Esterjão"]
+console.log(meusPeixes)
+
+meusPeixes.pop()
+console.log(meusPeixes) // ["Palhaço", "Mandarim"]
+
+// ===============================
+// 8. MÉTODO SPLICE(I,N)
+// ===============================
+
+// O método splice(i,n) remove n elementos á partir da posição i do array
+
+const letras = ["A", "B", "C", "E", "F", "G", "H"]
+
+console.log(letras)
+
+letras.splice(2,1)
+console.log(letras)
+
+letras.splice(3,2)
+console.log(letras)

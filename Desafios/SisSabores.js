@@ -13,8 +13,7 @@ let bolo1 = ["Prestígio", "Frutas Vermelhas", "Abacaxi", "Morango", "Mousse", "
 
 console.log("\nOpções de bolo:", bolo1);
 
-for(let i = 0; i < 8
-    ; i++){
+for(let i = 0; i < 8; i++){
     let bolo1 = prompt(`Cliente ${i + 1}, digite o nome do bolo que deseja: `);
     bolo1 = bolo1.toLowerCase();
     switch(bolo1){
