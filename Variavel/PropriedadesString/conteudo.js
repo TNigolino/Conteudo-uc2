@@ -176,3 +176,25 @@ console.log(letras)
 
 letras.splice(3,2)
 console.log(letras)
+
+// ===================================
+// 9. MÉTODO CONCAT()
+// ===================================
+
+// Concatenar significa juntar dois ou mais arrays para formar um novo array. Em javascript, arrays são estruturas de dados usadas para armazenar listas de elementos (como números,strings,objetos e etc...).
+
+let frutas2 = ["Maça", "Banana"];
+let legumes = ["Cenoura", "Batata"];
+
+let alimentos = frutas2.concat(legumes);
+console.log(alimentos);
+
+// ===================================
+// 10. MÉTODO SORT()
+// ===================================
+
+// Quando voce chama .sort() em um array, ele organiza os itens em ordem crescente (por padrão,ordem alfabética para strings e ordem crescente para números,mas com alguns peculiaridades para números).
+
+let frutas3 = ["Banana", "Maçã", "Laranja"];
+frutas3.sort();
+console.log(frutas3)
