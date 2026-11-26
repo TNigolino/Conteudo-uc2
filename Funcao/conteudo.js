@@ -42,3 +42,26 @@ function somar(a, b) {
 
 somar(5,10)
 somar(20,30)
+
+// =============================
+// 4. FUNÇÃO COM RETORNO
+// =============================
+
+function multiplicar(x, y) {
+    return x * y // A palavra return retorna o valor da multiplicação
+}
+// Guardamos o retorno em uma váriavel
+let resultado2 = multiplicar(5, 10)
+console.log(`\nResultado da multiplicação: ${resultado2}`) // Exibindo o resultado da multiplicação
+
+//=========================================================
+// O QUE É UMA ARROW FUNCTION?
+//=========================================================
+// Arrow Function é uma maneira moderna e geralmente mais compacta de escrever função em JS. A palavra "arrow" significa "seta" 
+// em inglês. Esse nome está relacionado ao símbolo: => A lógica é a mesma o que muda é a maneira de escrever.
+
+
+const somarArrow = (b,c) =>{
+    return b + c
+}
+console.log(`\nResultado da soma (Arrow Function): ${somarArrow(10,5)}`)
